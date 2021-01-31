@@ -6,6 +6,8 @@ Haga click en la siguiente imagen para mirar los recursos multimedia del curso
 
 <b>Videos del curso</b><br>
 
-<a href="https://miro.com/app/board/o9J_lWAiZXE=/" target="_blank"><img src="https://play-lh.googleusercontent.com/RqnvN1nWlvVA86skGSCt1u-ghdDvjSB1SmKinTtmwRxEQpPYNxDqyzUfr53jd5bB3yY" width="200"><br></a>
+<a href="https://miro.com/app/board/o9J_lWAiZXE=/" target="_blank"><img src="https://play-lh.googleusercontent.com/RqnvN1nWlvVA86skGSCt1u-ghdDvjSB1SmKinTtmwRxEQpPYNxDqyzUfr53jd5bB3yY" width="200"></a>
+
+<br>
 
 
