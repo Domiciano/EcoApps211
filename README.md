@@ -1,4 +1,4 @@
-![Univesidad Icesi](https://www.icesi.edu.co/calipostalessonoras/images/logo_icesi-01.png)
+![Univesidad Icesi](https://www.icesi.edu.co/calipostalessonoras/images/logo_icesi-01.png =250x)
 
 # Ecosistemas de aplicaciones
 
