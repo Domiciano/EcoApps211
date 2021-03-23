@@ -11,3 +11,8 @@
 <a href="https://miro.com/app/board/o9J_lWAiZXE=/" target="_blank"><img src="https://appmirror.net/wp-content/uploads/2020/12/miro-icon-1200x1200.png" width="200"></a>
 <br>
 
+
+<p><a href="https://github.com/domic0620/Quiz1Eco211Solucion">Solución del QUIZ 1</a></p>
+<p>Link para la clonación</p>
+<code>https://github.com/domic0620/Quiz1Eco211Solucion</code>
+<p></p>
